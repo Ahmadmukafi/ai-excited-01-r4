@@ -1,8 +1,8 @@
 # Ember Phoenix — ai-excited-01 round 4
 
-[![make.fun](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/c/ai-excited-01)
-[![rank](https://make.fun/badge/Ahmadmukafi/ai-excited-01-r4/rank.svg)](https://make.fun/c/ai-excited-01)
-[![reward](https://make.fun/badge/Ahmadmukafi/ai-excited-01-r4/reward.svg)](https://make.fun/c/ai-excited-01)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/Ahmadmukafi/ai-excited-01-r4/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/Ahmadmukafi/ai-excited-01-r4/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 A phoenix rises straight through a burning golden ring at dawn: wings
 thrown wide, sparks flying off every feather, a pale sun blazing behind
